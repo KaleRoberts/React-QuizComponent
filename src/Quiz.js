@@ -1,7 +1,7 @@
 import React from 'react';
 import { Component } from 'react';
 
-let quizData = require('./quiz_data');
+let quizData = require('./quiz_data.json');
 
 class Quiz extends Component {
     constructor(props) {
