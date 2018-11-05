@@ -3,10 +3,6 @@ import { Component } from 'react';
 
 class QuizQuestionButton extends Component {
 
-  state = {
-
-  };
-
   render() {
     return (
       <li>

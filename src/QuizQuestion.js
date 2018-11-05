@@ -4,10 +4,6 @@ import QuizQuestionButton from './QuizQuestionButton';
 
 class QuizQuestion extends Component {
 
-  // constructor(props) {
-  //   super(props);
-  // }
-
   render() {
     return (
       <main>
