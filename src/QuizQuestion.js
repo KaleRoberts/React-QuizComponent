@@ -25,7 +25,7 @@ class QuizQuestion extends Component {
     return (
       <main>
         <section>
-          <p>
+          <p className="QuizQuestion">
             {this.props.quiz_question.instruction_text}
           </p>
         </section>
